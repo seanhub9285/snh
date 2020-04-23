@@ -1,0 +1,5 @@
+<?php
+
+
+
+echo "<h2><marquee>YOU ARE WELCOME TO THE PAYBILL PAGE. THE INSTRUCTION IS TO LEAVE IT BLANK FOR NOW</marquee></h2>";
